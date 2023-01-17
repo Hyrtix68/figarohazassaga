@@ -1,0 +1,53 @@
+body
+{
+    background-color: #FFCCAA;
+    font-family: Tahoma;
+    font-size: 14px;
+}
+
+a
+{
+    color: #A04000;
+}
+
+#kepegy
+{
+    float: left;
+    width: 150px;
+    margin: 5px 20px 5px 20px;
+}
+
+h1
+{
+    color: #A04000;
+}
+p
+{
+    text-align: justify;
+}
+.vas
+{
+    font-weight: bold;
+}
+
+#kepketto
+{
+    float: right;
+    width: 195px;
+    margin: 5px 20px 5px 20px;
+}
+table
+{
+    width: 100%;
+    border: none;
+}
+#fes
+{
+    vertical-align: bottom;
+    text-align: right;
+    font-style: italic;
+}
+#res
+{
+    text-align: center;
+}
